@@ -1,69 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yanzi LI</title>
-    <link>http://liliyz23.github.io/</link>
-    <description>Recent content on Yanzi LI</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate><atom:link href="http://liliyz23.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Aliquam</title>
-      <link>http://liliyz23.github.io/blogs/aliquam/</link>
-      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
-      
-      <guid>http://liliyz23.github.io/blogs/aliquam/</guid>
-      <description>fajdhfjlahdlfs  807863498 huahdfalgdf   jhkahlfsd
- for(){afdadsf ds } 简书, 是一个创作社区,任何人均可以在其上进行创作。用户在简书上面可以方便的创作自己的作品,互相交流。
-    123 234 345     abc bcd cde   abc bcd cde   abc bcd cde       123 234 345     abc bcd cde   abc bcd cde   abc bcd cde    Look what I can do!</description>
-    </item>
-    
-    <item>
-      <title>Tempus</title>
-      <link>http://liliyz23.github.io/blogs/tempus/</link>
-      <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
-      
-      <guid>http://liliyz23.github.io/blogs/tempus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Magna</title>
-      <link>http://liliyz23.github.io/blogs/magna/</link>
-      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
-      
-      <guid>http://liliyz23.github.io/blogs/magna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AS IF</title>
-      <link>http://liliyz23.github.io/blogs/as_if/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>http://liliyz23.github.io/blogs/as_if/</guid>
-      <description>AS IF是一组反映＂不存在性＂的交互艺术装置。一束光打在旋转的空花瓶上，投射出的阴影里，有花束肆意绽放，与花瓶的影子相融，一同旋转，仿佛花瓶中真的有一束无形无质的花；当试探的手伸向虚无的花朵，连花影也会归于沉寂。不存在的花朵或许是未曾拥有者的渴望，或许是失去者久久不能忘怀的悔恨。究竟哪一个更令人感到空虚呢？
-AS IF is a series of interactive installations with the aim of visualizing the nonexistence. Shadows of flowers are casted immediately above vases, merging with their own shadows. The rotating vases and shadows give the nonexistent flowers the sense of volume, but also deepen their hollowness. Should the viewer try to touch the nonexistent flowers, the shadows of the flowers will dissipate. The nonexistent flowers could be the long-lasting desire of &amp;ldquo;having&amp;rdquo; or the lingering regret of &amp;ldquo;losing&amp;rdquo;.</description>
-    </item>
-    
-    <item>
-      <title>Ipsum</title>
-      <link>http://liliyz23.github.io/blogs/ipsum/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>http://liliyz23.github.io/blogs/ipsum/</guid>
-      <description>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</description>
-    </item>
-    
-    <item>
-      <title>Wandering</title>
-      <link>http://liliyz23.github.io/blogs/wandering/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>http://liliyz23.github.io/blogs/wandering/</guid>
-      <description>游荡与迷失是一组体感交互与代码艺术相结合的大型装置，通过一系列精心设计的独特互动体验，展现了对现代人身体上、心灵上与网络、数字应用、数字系统之间纠缠关系的反思。本作品从机器增强、信息焦虑（红点强迫症）、信息过剩三个角度展开讨论。
-Wandering is an interactive installation which reflects people&amp;rsquo;s physical and emotional entanglement with the screen devices and the Internet. It uses motion tracking technology and visual art programming to create an addictive experience for rethinking the relationship between human and digital technology. This project consists of three themes: how people use digital tools as a substitute for their own ability, how people continuously respond to and are distracted by app notifications, and how people create and share information in everyday life through screen devices.</description>
-    </item>
-    
+    <title>Hugo Story</title>
+    <link>/</link>
+    <description>Recent content on Hugo Story</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
