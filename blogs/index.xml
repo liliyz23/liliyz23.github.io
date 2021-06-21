@@ -1,41 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lifestyle on Yanzi LI</title>
+    <title>My Projects on Yanzi LI</title>
     <link>https://liliyz23.github.io/blogs/</link>
-    <description>Recent content in Lifestyle on Yanzi LI</description>
+    <description>Recent content in My Projects on Yanzi LI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate><atom:link href="https://liliyz23.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Aliquam</title>
-      <link>https://liliyz23.github.io/blogs/aliquam/</link>
-      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
-      
-      <guid>https://liliyz23.github.io/blogs/aliquam/</guid>
-      <description>fajdhfjlahdlfs  807863498 huahdfalgdf   jhkahlfsd
- for(){afdadsf ds } 简书, 是一个创作社区,任何人均可以在其上进行创作。用户在简书上面可以方便的创作自己的作品,互相交流。
-    123 234 345     abc bcd cde   abc bcd cde   abc bcd cde       123 234 345     abc bcd cde   abc bcd cde   abc bcd cde    Look what I can do!</description>
-    </item>
-    
-    <item>
-      <title>Tempus</title>
-      <link>https://liliyz23.github.io/blogs/tempus/</link>
-      <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
-      
-      <guid>https://liliyz23.github.io/blogs/tempus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Magna</title>
-      <link>https://liliyz23.github.io/blogs/magna/</link>
-      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
-      
-      <guid>https://liliyz23.github.io/blogs/magna/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>AS IF</title>
       <link>https://liliyz23.github.io/blogs/as_if/</link>
@@ -47,12 +18,56 @@ AS IF is a series of interactive installations with the aim of visualizing the n
     </item>
     
     <item>
-      <title>Ipsum</title>
-      <link>https://liliyz23.github.io/blogs/ipsum/</link>
+      <title>Coming soon</title>
+      <link>https://liliyz23.github.io/blogs/coming_soon/</link>
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       
-      <guid>https://liliyz23.github.io/blogs/ipsum/</guid>
-      <description>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</description>
+      <guid>https://liliyz23.github.io/blogs/coming_soon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dream</title>
+      <link>https://liliyz23.github.io/blogs/knight_dream/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://liliyz23.github.io/blogs/knight_dream/</guid>
+      <description>幻梦是一个体感实时互动音乐可视化装置，由显示屏、双声道耳机、LeapMotion手势传感器组成。参与者在屏幕前像指挥一样挥动手臂，乐曲会根据手臂的空间位置而改变其播放属性，如当手臂偏向右侧时，乐曲的立体声也会偏向右侧，当手举高时，音乐也会随之高亢激昂。参与者能够在肢体的舞动间沉浸在音乐空间的变幻当中。屏幕中的抽象动画会跟随手臂绘制出下唯美的画面。听者、绘者、舞者、观者融合为一。
+ </description>
+    </item>
+    
+    <item>
+      <title>Emoji Pong</title>
+      <link>https://liliyz23.github.io/blogs/emoji_pong/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://liliyz23.github.io/blogs/emoji_pong/</guid>
+      <description>Emoji Pong是世界上第一款电子游戏“Pong”双人版本的翻版。游戏中的乒乓球和球拍带有丰富的表情，当一个玩家得分时，小球会发出欢呼，随着分数的提高，其球拍也会越来越高兴，同时失分方的球拍会给出沮丧的哭脸，希望玩家能够争取逆风翻盘，战胜对手。
+游戏气氛既紧张又不失活泼，玩家在快速的游戏当中会与小球、球拍产生强烈的情感联结，探索游戏中的每一种可爱表情也成为了游戏的乐趣之一，为此两名玩家会通力合作，试图实现所有比分的可能性，由此这个对抗型的游戏也带上的合作的玩法。
+展览中分别使用了3D鼠标和DIY的复古joystick作为玩家的控制器，是历史和未来的碰撞。网页版游戏正在开发中。
+ Richard Grillotti ｜ 概念设计、视觉设计
+Yanzi Li ｜ 软硬件开发、体验优化
+  </description>
+    </item>
+    
+    <item>
+      <title>Reorganized Music</title>
+      <link>https://liliyz23.github.io/blogs/reorganized_music/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://liliyz23.github.io/blogs/reorganized_music/</guid>
+      <description>A new way to manipulate sound and create unique effects
+ Reorganized Music uses a method called Granular Synthesis to redistribute and restructure fragments of music to produce sound effects and music. *Granular Synthesis is a powerful algorithm for manipulating sounds, to adjust many sound parameters such as speed and pitch. Each music fragment is a grain. By combining different grains in various ways, participants cand create unique sound effects.</description>
+    </item>
+    
+    <item>
+      <title>Translation</title>
+      <link>https://liliyz23.github.io/blogs/translation/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://liliyz23.github.io/blogs/translation/</guid>
+      <description>翻译·化身是一个沉浸式交互装置，它探讨着数字形态下人体、算法、工具之间的关系。 互联网和智能应用的普及使得大量跨文化、跨语言的信息在数字世界中不断传递。 这个作品以AI翻译系统为主体，背景中是原文，人体的轮廓内是通过AI翻译得到的译文，隐喻着智能算法为人们打开一扇窗，是人的能力的延伸，虽然目前的精度差强人意，但随着技术的不断渗透和人们的持续情感参与，融合将成为常态。
+Translation is an interactive and immersive installation which illustrates a dynamic system of communication between the human body and the digital interface. The internet and smart devices make a sheer quantity of data available and achievable. Cross-cultural and cross-language information continually transmit in the digital world. In this exhibition, viewers will interact with the magical translation system by their body movements. This exhibition is a metaphor for our ongoing emotional involvement with digital systems in our lived environment.</description>
     </item>
     
     <item>
