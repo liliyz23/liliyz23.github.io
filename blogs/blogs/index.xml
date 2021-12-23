@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Projects on Yanzi LI</title>
+    <link>https://liliyz23.github.io/blogs/</link>
+    <description>Recent content in My Projects on Yanzi LI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate><atom:link href="https://liliyz23.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Phoenix</title>
+      <link>https://liliyz23.github.io/blogs/phoenix/</link>
+      <pubDate>Sun, 31 Oct 2021 21:28:43 -0500</pubDate>
+      
+      <guid>https://liliyz23.github.io/blogs/phoenix/</guid>
+      <description>HNOENIX 璞玉凤凰是位于REEMOOR璞玉艺术概念店内的体感互动影像装置，通过科技与艺术的结合向顾客传达与时俱进，追求创新与活力的品牌能量。“璞玉凤凰”运用了体感交互和生成艺术的手段营造出光影交错的流动空间，拉近顾客与凤凰的距离，同时呼应了该季度产品的凤凰主题。观众的身影能够实时地与画面进行融合和交互，同时，当观众的身影与品牌Logo重合时，即可召唤出象征的祥瑞的品牌凤凰动画，传达了品牌对所有到店者的美好祝愿。
+我在这个项目中担任交互设计和开发的工作，为了配合店铺空间的实际情况，我运用了许多计算机视觉相关的数据处理方法来保证交互效果的稳定鲁棒性，使用了丰富的生成艺术算法的叠加来实现华丽动人的视觉效果，同时经过这个项目的制作，我对复杂逻辑跳转和控制的运用再上新台阶。感谢团队中的每一位伙伴的积极配合和支持，让如此美丽的商业空间艺术装置得以落地实现。
+Pure Jade Phoenix is an interactive video installation located in the REEMOOR Art Concept Store. Through the combination of technology and art, the brand conveys its value of advancing with the times, pursuing innovation and keeping vitality. It uses body tracking interaction and generative art to create a space of flowing light, shortening the distance between customers and the phoenix, and at the same time echoing the phoenix theme of this season&amp;rsquo;s products.</description>
+    </item>
+    
+    <item>
+      <title>AS IF</title>
+      <link>https://liliyz23.github.io/blogs/as_if/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://liliyz23.github.io/blogs/as_if/</guid>
+      <description>AS IF是一组反映＂不存在性＂的交互艺术装置。一束光打在旋转的空花瓶上，投射出的阴影里，有花束肆意绽放，与花瓶的影子相融，一同旋转，仿佛花瓶中真的有一束无形无质的花；当试探的手伸向虚无的花朵，连花影也会归于沉寂。不存在的花朵或许是未曾拥有者的渴望，或许是失去者久久不能忘怀的悔恨。究竟哪一个更令人感到空虚呢？至于为什么叫 AS IF 这名字，请看附赠的小诗：
+AS IF is a series of interactive installations with the aim of visualizing the nonexistence. Shadows of flowers are casted immediately above vases, merging with their own shadows. The rotating vases and shadows give the nonexistent flowers the sense of volume, but also deepen their hollowness. Should the viewer try to touch the nonexistent flowers, the shadows of the flowers will dissipate. The nonexistent flowers could be the long-lasting desire of &amp;ldquo;having&amp;rdquo; or the lingering regret of &amp;ldquo;losing&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Coming soon</title>
+      <link>https://liliyz23.github.io/blogs/coming_soon/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://liliyz23.github.io/blogs/coming_soon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dream</title>
+      <link>https://liliyz23.github.io/blogs/knight_dream/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://liliyz23.github.io/blogs/knight_dream/</guid>
+      <description>幻梦是一个体感实时互动音乐可视化装置，由显示屏、双声道耳机、LeapMotion手势传感器组成。参与者在屏幕前像指挥一样挥动手臂，乐曲会根据手臂的空间位置而改变其播放属性，如当手臂偏向右侧时，乐曲的立体声也会偏向右侧，当手举高时，音乐也会随之高亢激昂。参与者能够在肢体的舞动间沉浸在音乐空间的变幻当中。屏幕中的抽象动画会跟随手臂绘制出下唯美的画面。听者、绘者、舞者、观者融合为一。
+ </description>
+    </item>
+    
+    <item>
+      <title>Emoji Pong</title>
+      <link>https://liliyz23.github.io/blogs/emoji_pong/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://liliyz23.github.io/blogs/emoji_pong/</guid>
+      <description>Emoji Pong是世界上第一款电子游戏“Pong”双人版本的翻版。游戏中的乒乓球和球拍带有丰富的表情，当一个玩家得分时，小球会发出欢呼，随着分数的提高，其球拍也会越来越高兴，同时失分方的球拍会给出沮丧的哭脸，希望玩家能够争取逆风翻盘，战胜对手。
+游戏气氛既紧张又不失活泼，玩家在快速的游戏当中会与小球、球拍产生强烈的情感联结，探索游戏中的每一种可爱表情也成为了游戏的乐趣之一，为此两名玩家会通力合作，试图实现所有比分的可能性，由此这个对抗型的游戏也带上的合作的玩法。
+展览中分别使用了3D鼠标和DIY的复古joystick作为玩家的控制器，是历史和未来的碰撞。网页版游戏正在开发中。
+ Richard Grillotti ｜ 概念设计、视觉设计
+Yanzi Li ｜ 软硬件开发、体验优化
+  </description>
+    </item>
+    
+    <item>
+      <title>Reorganized Music</title>
+      <link>https://liliyz23.github.io/blogs/reorganized_music/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://liliyz23.github.io/blogs/reorganized_music/</guid>
+      <description>A new way to manipulate sound and create unique effects
+ Reorganized Music uses a method called Granular Synthesis to redistribute and restructure fragments of music to produce sound effects and music. *Granular Synthesis is a powerful algorithm for manipulating sounds, to adjust many sound parameters such as speed and pitch. Each music fragment is a grain. By combining different grains in various ways, participants cand create unique sound effects.</description>
+    </item>
+    
+    <item>
+      <title>Translation</title>
+      <link>https://liliyz23.github.io/blogs/translation/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://liliyz23.github.io/blogs/translation/</guid>
+      <description>翻译·化身是一个沉浸式交互装置，它探讨着数字形态下人体、算法、工具之间的关系。 互联网和智能应用的普及使得大量跨文化、跨语言的信息在数字世界中不断传递。 这个作品以AI翻译系统为主体，背景中是原文，人体的轮廓内是通过AI翻译得到的译文，隐喻着智能算法为人们打开一扇窗，是人的能力的延伸，虽然目前的精度差强人意，但随着技术的不断渗透和人们的持续情感参与，融合将成为常态。
+Translation is an interactive and immersive installation which illustrates a dynamic system of communication between the human body and the digital interface. The internet and smart devices make a sheer quantity of data available and achievable. Cross-cultural and cross-language information continually transmit in the digital world. In this exhibition, viewers will interact with the magical translation system by their body movements. This exhibition is a metaphor for our ongoing emotional involvement with digital systems in our lived environment.</description>
+    </item>
+    
+    <item>
+      <title>Wandering</title>
+      <link>https://liliyz23.github.io/blogs/wandering/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://liliyz23.github.io/blogs/wandering/</guid>
+      <description>游荡与迷失是一组体感交互与代码艺术相结合的大型装置，通过一系列精心设计的独特互动体验，展现了对现代人身体上、心灵上与网络、数字应用、数字系统之间纠缠关系的反思。本作品从机器增强、信息焦虑（红点强迫症）、信息过剩三个角度展开讨论。
+Wandering is an interactive installation which reflects people&amp;rsquo;s physical and emotional entanglement with the screen devices and the Internet. It uses motion tracking technology and visual art programming to create an addictive experience for rethinking the relationship between human and digital technology. This project consists of three themes: how people use digital tools as a substitute for their own ability, how people continuously respond to and are distracted by app notifications, and how people create and share information in everyday life through screen devices.</description>
+    </item>
+    
+  </channel>
+</rss>
